@@ -2,3 +2,4 @@
 This repo contains all SQL Queries of the Basic Database Management Course of Coding Ninjas.
 
 - [Filtering and Sorting Data](./filteringandsortingdata)
+- [Grouping Data](./groupingdata)
