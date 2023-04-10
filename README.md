@@ -6,4 +6,4 @@ This repo contains all SQL Queries of the Basic Database Management Course of Co
 - [Queries with Tables Constraints](./querieswithtablesconstraints/)
 
 # Coding Ninjas
-## Please! Rate my Repo
+## Rate my Repo ⭐ !!!
