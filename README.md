@@ -6,6 +6,7 @@ This repo contains all SQL Queries of the Basic Database Management Course of Co
 - [Queries with Tables Constraints](./querieswithtablesconstraints/)
 - [Modifying Data](./modifyingdata/)
 - [Joining Tables](./joiningtables/)
+- [Set Operations](./setoperations/)
 
 # Coding Ninjas
 ## Rate my Repo ⭐ !!!
