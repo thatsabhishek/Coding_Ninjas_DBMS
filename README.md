@@ -9,6 +9,7 @@ This repo contains all SQL Queries of the Basic Database Management Course of Co
   - [Joining Tables](./joiningtables/)
   - [Set Operations](./setoperations/)
   - [Sub Queries](./subqueries/)
-
+- Milestone 3
+  - [SQL queries Assessment](./sqlqueriesassessment/)
 # Coding Ninjas
 ## Rate my Repo ⭐ !!!
