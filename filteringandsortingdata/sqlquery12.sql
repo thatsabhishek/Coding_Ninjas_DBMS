@@ -21,7 +21,7 @@ Problem Statement:
 Fetch all the records of the employees working for department D1 or D3 using the IN clause.
 
 Answer:
-SELECT * FROM Emp_data WHERE dept IN ('D1','D2');
+SELECT * FROM Emp_data WHERE dept IN ('D1','D3');
 
 Output:
  emp_id |   emp_name   | dept | contract |      email      | hometown 
