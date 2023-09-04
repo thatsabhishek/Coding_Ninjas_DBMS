@@ -21,7 +21,7 @@ Problem Statement:
 Fetch all the records of employees that neither work for department D1 nor for D2.
 
 Answer:
-SELECT * FROM Emp_data WHERE dept IN ('D1','D2');
+SELECT * FROM Emp_data WHERE dept NOT IN ('D1','D2');
 
 Output:
  emp_id |   emp_name   | dept | contract |      email      | hometown 
