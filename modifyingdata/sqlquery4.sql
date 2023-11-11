@@ -16,7 +16,7 @@ Table BankAccount:
 Note: Print the complete table BankAccount after these updation.
 
 Solution:
-UPDATE bankaccount SET age =18 WHERE id=4;
+UPDATE bankaccount SET age =18 WHERE id=2;
 
 UPDATE bankaccount SET cash_balance =2000 WHERE id=4;
 select * from bankaccount;
