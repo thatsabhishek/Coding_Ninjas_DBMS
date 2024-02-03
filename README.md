@@ -11,5 +11,8 @@ This repo contains all SQL Queries of the Basic Database Management Course of Co
   - [Sub Queries](./subqueries/)
 - Milestone 3
   - [SQL queries Assessment](./SQLqueriesAssessment/)
-# Coding Ninjas
+
 ## Rate my Repo ⭐ !!!
+### Show your support 
+
+<a href="https://www.buymeacoffee.com/thatsabhishek" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
